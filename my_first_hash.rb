@@ -1,6 +1,6 @@
-#def my_hash
- #family_hash = {"spouse" => "Kevin", "son" => "Tyler", "daughter" => "Sarah"
-#end
+def my_hash
+ family_hash = {"spouse" => "Kevin", "son" => "Tyler", "daughter" => "Sarah"
+end
 
 
 def shipping_manifest
